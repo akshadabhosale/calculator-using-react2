@@ -1,0 +1,11 @@
+import React from "react";
+import Board from "../src/components/Board"
+export default function App()
+{
+    return(
+    <div>
+        
+        <Board/>
+    </div>
+    );
+}

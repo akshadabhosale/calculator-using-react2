@@ -1,0 +1,11 @@
+h2{
+    font-family: 'Vampiro One', cursive;
+}
+body{
+    background-color:#b2ebf2;
+}
+.board{
+    margin-left: 20%;
+    height:50% ;
+    width: 50%;
+}
